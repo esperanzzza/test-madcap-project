@@ -12,6 +12,7 @@
 	--Light: #d0d3d5;
 	--White: #ffffff;
 	--Gray: #d3d3d3;
+	--Link: #2a9292;
 }
 
 body
@@ -532,6 +533,7 @@ MadCap|xref
 
 MadCap|xref.cross-ref {
 	text-decoration: none;
+	color: var(--Link);
 }
 
 
