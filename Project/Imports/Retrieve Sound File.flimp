@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="C-Procedure-Topics"
+  PreserveMappedStyles="false"
+  LastImport="2020-02-02T21:55:21.7751049+02:00">
+  <Files>
+    <Url
+      Source="../../../../technical writing/Retrieve Sound File.docx"
+      AbsoluteSource="file:///E:/technical writing/Retrieve Sound File.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/C-Procedure-Topics/Retrieve A Sound Files List.htm"
+      TimeStamp="2/2/2020 9:54:25 PM" />
+    <Url
+      Source="../TOCs/Retrieve Sound File.fltoc"
+      TimeStamp="2/2/2020 9:54:25 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Retrieve Sound File.css"
+      TimeStamp="2/2/2020 9:54:25 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles />
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>

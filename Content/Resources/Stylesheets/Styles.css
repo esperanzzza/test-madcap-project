@@ -455,17 +455,6 @@ MadCap|breadcrumbsProxy
 	color: var(--Dark);
 }
 
-/* Table*/
-td, th 
-{
-	padding: 10px;
-}
-
-th 
-{
-	background-color: var(--Gray);
-}
-
 /* Links */
 
 a
