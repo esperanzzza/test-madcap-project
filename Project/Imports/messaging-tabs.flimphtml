@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ImportResources="true"
+  ImportResourcesLocation="RelativeToDocument"
+  SourceFolders=""
+  ImportTopics="content"
+  ResourceFolder="file:///E:/mapcap projects/Test Project/Content/"
+  LastImport="2020-02-06T23:07:45.4342630+02:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="file:///C:/Users/SpeakWithAGeek/Desktop/messaging-tabs.html"
+      AbsoluteSource="file:///C:/Users/SpeakWithAGeek/Desktop/messaging-tabs.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/messaging-tabs.html"
+      TimeStamp="2/6/2020 11:07:39 PM" />
+    <Url
+      Source="../TOCs/messaging-tabs.fltoc"
+      TimeStamp="2/6/2020 11:07:45 PM" />
+  </GeneratedFiles>
+</HtmlImport>
